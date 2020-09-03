@@ -1,6 +1,6 @@
 {
   "name": "@thang2162/react-native-text-area",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "description": "Simple and easy to use TextArea for React Native",
   "keywords": [
     "ios",
@@ -10,10 +10,9 @@
     "textArea",
     "text-input",
     "ui-kit",
-    "FreakyCoder",
-    "freakycoder",
-    "kuray",
-    "Kuray",
+    "thang2162",
+    "tone",
+    "Tone",
     "react",
     "react-native",
     "javascript",
