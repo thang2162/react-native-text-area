@@ -19,7 +19,11 @@ Add the dependency:
 ### React Native:
 
 ```js
-npm i @thang2162/react-native-text-area or yarn add @thang2162/react-native-text-area
+npm i @thang2162/react-native-text-area
+
+or,
+
+yarn add @thang2162/react-native-text-area
 ```
 
 ## Peer Dependencies
